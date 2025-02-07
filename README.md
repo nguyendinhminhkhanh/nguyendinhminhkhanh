@@ -14,5 +14,5 @@
 ![SCSS](https://img.icons8.com/color/48/sass.png) 
 ![Node.js](https://img.icons8.com/color/48/nodejs.png) 
 ![MongoDB](https://img.icons8.com/color/48/mongodb.png)
-![Angular](https://img.icons8.com/color/48/angularjs.png) 
+
 \...
